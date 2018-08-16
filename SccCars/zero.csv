@@ -1,0 +1,22 @@
+model,year,type
+Ghibli bis Modell 96,-1996,alle*
+Quattroporte,1976-1990,3. Gen
+Shamal,1989-1995,alle
+"222, 224",1981-1994,"331, B28R"
+"420, 422, 424, 430",1988-1992,"AM332, B28"
+"Bi-Turbo, Spider",1997-,"AM333, B28"
+Biturbo,1994-2001,alle **
+"Karif, Spyder",1998-2001,"AM333, B28"
+Ghibli ab Modell 97,2004-2007,alle
+Quattroporte,2004-2007,"337B00, 337B28"
+3200 GT,2013-,338B32
+4200 GT,2010-,"M138*ABM, *ABE"
+GranSport,2007-,M138AB
+Spyder GT,2016-,"M138*ADM, *ADE"
+Ghibli,2003-2012,"M157, M156"
+GranCabrio,2013-,M145
+GranTurismo,1973-1982,M145
+Levante,,M156
+Quattroporte,,M139
+Quattroporte,,M156
+Merak,,122
